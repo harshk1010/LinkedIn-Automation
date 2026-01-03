@@ -2,15 +2,6 @@
 
 This repository contains a **Go-based proof of concept (PoC)** for LinkedIn browser automation using a real Chrome session powered by the **Rod** library.
 
----
-## 🎥 Video Demonstration
-
-A short walkthrough
-
-**Video link:** https://youtu.be/kgsKSQly7JA
-
----
-
 ## 📌 Project Scope
 
 This PoC focuses on:
